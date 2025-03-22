@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "demo": {
+      "command": "/Users/robertherber/.bun/bin/bun",
+      "args": [
+        "run",
+        "/Users/robertherber/code/_playing/mcp-test/mcp-server.ts"
+      ]
+    }
+  }
+}

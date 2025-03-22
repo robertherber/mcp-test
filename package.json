@@ -1,0 +1,16 @@
+{
+  "name": "mcp-test",
+  "version": "1.0.0",
+  "main": "mcp-server.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun mcp-server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "zod": "^3.24.2"
+  }
+}
